@@ -1,0 +1,14 @@
+ol{
+    background-color: rgb(255, 0, 221);
+    padding: 25px;
+}
+ol.pink {
+    background-color: coral;
+}
+li.bg-gray{
+    background-color: cornsilk;
+    margin: 5px;
+}
+.new-bg{
+    background-color: rgb(37, 220, 20);
+}
